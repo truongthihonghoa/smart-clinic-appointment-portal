@@ -1,0 +1,10 @@
+{
+  "name": "smart-clinic-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo \"Frontend dev not configured yet\"",
+    "build": "echo \"Frontend build not configured yet\"",
+    "test": "echo \"Frontend tests not configured yet\""
+  }
+}
